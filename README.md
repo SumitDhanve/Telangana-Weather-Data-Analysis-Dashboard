@@ -1,3 +1,10 @@
-# Telangana-Weather-Data-Analysis-Dashboard 
+# Telangana Weather Data Analysis Dashboard
 
-![image](https://github.com/user-attachments/assets/ca6b0ae5-d3e5-4ff0-9978-afb547c93782)
+## This project involves the creation of a Power BI dashboard to analyze weather data collected from Telangana. The goal is to visualize and uncover patterns in weather trends across districts and over time.
+
+🔍 Key Objectives
+- Analyze temperature, rainfall, and humidity trends.
+- Identify seasonal and district-wise weather variations.
+- Enable interactive filtering for different time periods and regions.
+- Support data-driven decision-making in climate-sensitive sectors.
+
